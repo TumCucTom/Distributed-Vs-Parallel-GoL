@@ -1,0 +1,9 @@
+Start parallel by:
+
+
+we intentionally left array select out. It's an expensive operation and can often be avoided by arranging for the various senders to send on a shared channel instead.
+
+NEED TO MAKE IMPROVEMENTS TO TASK 2 STILL
+
+4*workers
+vs worker + doing a calc 4 times
