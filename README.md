@@ -1,6 +1,7 @@
 # Parallel vs Distributions for the Game of Life in GO
+Implemented,optimised (inc halo exchange, communication overhead, architecture considerations) and compared parallel and distributed versions for Conway's Game of Life
 
-See all details in the report  [here](report.pdf) or in the images below
+See all details in the report [here](report.pdf) or in the images below
 ![Page 1](Report-images/1.png)
 ![Page 2](Report-images/2.png)
 ![Page 3](Report-images/3.png)
