@@ -1,4 +1,6 @@
 # Parallel vs Distributions for the Game of Life in GO
+Computer systems A - top in cohort 86%
+
 Implemented,optimised (inc halo exchange, communication overhead, architecture considerations) and compared parallel and distributed versions for Conway's Game of Life
 
 See all details in the report [here](report.pdf) or in the images below
